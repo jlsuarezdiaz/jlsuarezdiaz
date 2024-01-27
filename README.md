@@ -31,35 +31,9 @@ Maths and Computer Science at [University of Granada](https://www.ugr.es/). Ph.D
 
 I have developed several machine learning algorithms and packages as part of my research. I also like to develop other applications and games for fun in my free time. Here you can find some of them:
 
-<!--
-| | |
-|-|-|
-|[![pyDML](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=pyDML&show_owner=true)](https://github.com/jlsuarezdiaz/pyDML)|[![KELMOR](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=KELMOR&show_owner=true)](https://github.com/jlsuarezdiaz/KELMOR)|
-|[![IA-BOT-UGR-23](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=IA-BOT-UGR-23&show_owner=true)](https://github.com/jlsuarezdiaz/IA-BOT-UGR-23)|[![TFG](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=TFG&show_owner=true)](https://github.com/jlsuarezdiaz/TFG)|
-|[![SurfaceGames](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=SurfaceGames&show_owner=true)](https://github.com/jlsuarezdiaz/SurfaceGames)|[![SistemasMultimedia](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=SistemasMultimedia&show_owner=true)](https://github.com/jlsuarezdiaz/SistemasMultimedia)|
-|[![tera-raid-bot](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=tera-raid-bot&show_owner=true)](https://github.com/jlsuarezdiaz/tera-raid-bot)|[![Parchis-IA](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Parchis-IA&show_owner=true)](https://github.com/jlsuarezdiaz/Parchis-IA)|
-|[![ParchisIA-23](https://github-readme-stats.vercel.app/api/pin/?username=rbnuria&repo=ParchisIA-23&show_owner=true)](https://github.com/rbnuria/ParchisIA-23)|[![Geogebra](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Geogebra&show_owner=true)](https://github.com/jlsuarezdiaz/Geogebra)|
-|[![Napakalaki](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Napakalaki&show_owner=true)](https://github.com/jlsuarezdiaz/Napakalaki)|[![NapakalakiRb](https://github-readme-stats.vercel.app/api/pin/?username=andreshp&repo=NapakalakiRb&show_owner=true)](https://github.com/andreshp/NapakalakiRb)|
--->
-
-<!-->
-[![pyDML](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=pyDML&show_owner=true)](https://github.com/jlsuarezdiaz/pyDML)
-[![KELMOR](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=KELMOR&show_owner=true)](https://github.com/jlsuarezdiaz/KELMOR)
-[![IA-BOT-UGR-23](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=IA-BOT-UGR-23&show_owner=true)](https://github.com/jlsuarezdiaz/IA-BOT-UGR-23)
-[![TFG](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=TFG&show_owner=true)](https://github.com/jlsuarezdiaz/TFG)
-[![SurfaceGames](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=SurfaceGames&show_owner=true)](https://github.com/jlsuarezdiaz/SurfaceGames)
-[![SistemasMultimedia](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=SistemasMultimedia&show_owner=true)](https://github.com/jlsuarezdiaz/SistemasMultimedia)
-[![tera-raid-bot](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=tera-raid-bot&show_owner=true)](https://github.com/jlsuarezdiaz/tera-raid-bot)
-[![Parchis-IA](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Parchis-IA&show_owner=true)](https://github.com/jlsuarezdiaz/Parchis-IA)
-[![ParchisIA-23](https://github-readme-stats.vercel.app/api/pin/?username=rbnuria&repo=ParchisIA-23&show_owner=true)](https://github.com/rbnuria/ParchisIA-23)
-[![Geogebra](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Geogebra&show_owner=true)](https://github.com/jlsuarezdiaz/Geogebra)
-[![Napakalaki](https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Napakalaki&show_owner=true)](https://github.com/jlsuarezdiaz/Napakalaki)
-[![NapakalakiRb](https://github-readme-stats.vercel.app/api/pin/?username=andreshp&repo=NapakalakiRb&show_owner=true)](https://github.com/andreshp/NapakalakiRb)
--->
-
 <style>
   table#repos td {
-    border: none;
+    border: none !important;
   }
 </style>
 
