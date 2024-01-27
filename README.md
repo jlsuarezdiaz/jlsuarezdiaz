@@ -31,15 +31,11 @@ Maths and Computer Science at [University of Granada](https://www.ugr.es/). Ph.D
 
 I have developed several machine learning algorithms and packages as part of my research. I also like to develop other applications and games for fun in my free time. Here you can find some of them:
 
-<style>
-  table#repos td {
-    border: none !important;
-  }
-</style>
+
 
 <table id="repos">
     <tr>
-        <td>
+        <td style="border: none !important;">
             <a href="https://github.com/jlsuarezdiaz/pyDML">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=pyDML&show_owner=true&description_lines_count=3" alt="pyDML">
             </a>
