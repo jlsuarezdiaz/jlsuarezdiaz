@@ -21,88 +21,92 @@ Maths and Computer Science at [University of Granada](https://www.ugr.es/). Ph.D
 
 ## GitHub Stats
 
-[![jlsuarezdiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlsuarezdiaz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![jlsuarezdiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlsuarezdiaz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jlsuarezdiaz&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jlsuarezdiaz&rank=-?,-C&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlsuarezdiaz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlsuarezdiaz&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Software
 
 I have developed several machine learning algorithms and packages as part of my research. I also like to develop other applications and games for fun in my free time. Here you can find some of them:
 
-
+<style>
+  table#repos td {
+    border: none !important;
+  }
+</style>
 
 <table id="repos">
     <tr>
-        <td style="border: none !important;">
+        <td>
             <a href="https://github.com/jlsuarezdiaz/pyDML">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=pyDML&show_owner=true&description_lines_count=3" alt="pyDML">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=pyDML&show_owner=true&description_lines_count=3&theme=transparent" alt="pyDML">
             </a>
         </td>
         <td>
             <a href="https://github.com/jlsuarezdiaz/KELMOR">
-                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=KELMOR&show_owner=true&description_lines_count=3" alt="KELMOR">
+                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=KELMOR&show_owner=true&description_lines_count=3&theme=transparent" alt="KELMOR">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/jlsuarezdiaz/IA-BOT-UGR-23">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=IA-BOT-UGR-23&show_owner=true&description_lines_count=3" alt="IA-BOT-UGR-23">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=IA-BOT-UGR-23&show_owner=true&description_lines_count=3&theme=transparent" alt="IA-BOT-UGR-23">
             </a>
         </td>
         <td>
             <a href="https://github.com/jlsuarezdiaz/TFG">
-                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=TFG&show_owner=true&description_lines_count=3" alt="TFG">
+                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=TFG&show_owner=true&description_lines_count=3&theme=transparent" alt="TFG">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/jlsuarezdiaz/SurfaceGames">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=SurfaceGames&show_owner=true&description_lines_count=3" alt="SurfaceGames">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=SurfaceGames&show_owner=true&description_lines_count=3&theme=transparent" alt="SurfaceGames">
             </a>
         </td>
         <td>
             <a href="https://github.com/jlsuarezdiaz/SistemasMultimedia">
-                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=SistemasMultimedia&show_owner=true&description_lines_count=3" alt="SistemasMultimedia">
+                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=SistemasMultimedia&show_owner=true&description_lines_count=3&theme=transparent" alt="SistemasMultimedia">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/jlsuarezdiaz/tera-raid-bot">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=tera-raid-bot&show_owner=true&description_lines_count=3" alt="tera-raid-bot">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=tera-raid-bot&show_owner=true&description_lines_count=3&theme=transparent" alt="tera-raid-bot">
             </a>
         </td>
         <td>
             <a href="https://github.com/jlsuarezdiaz/Parchis-IA">
-                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Parchis-IA&show_owner=true&description_lines_count=3" alt="Parchis-IA">
+                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Parchis-IA&show_owner=true&description_lines_count=3&theme=transparent" alt="Parchis-IA">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/rbnuria/ParchisIA-23">
-                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=rbnuria&repo=ParchisIA-23&show_owner=true&description_lines_count=3" alt="ParchisIA-23">
+                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=rbnuria&repo=ParchisIA-23&show_owner=true&description_lines_count=3&theme=transparent" alt="ParchisIA-23">
             </a>
         </td>
         <td>
             <a href="https://github.com/jlsuarezdiaz/Geogebra">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Geogebra&show_owner=true&description_lines_count=3" alt="Geogebra">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Geogebra&show_owner=true&description_lines_count=3&theme=transparent" alt="Geogebra">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/jlsuarezdiaz/Napakalaki">
-                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Napakalaki&show_owner=true&description_lines_count=3" alt="Napakalaki">
+                <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=jlsuarezdiaz&repo=Napakalaki&show_owner=true&description_lines_count=3&theme=transparent" alt="Napakalaki">
             </a>
         </td>
         <td>
             <a href="https://github.com/andreshp/NapakalakiRb">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreshp&repo=NapakalakiRb&show_owner=true&description_lines_count=3" alt="NapakalakiRb">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreshp&repo=NapakalakiRb&show_owner=true&description_lines_count=3&theme=transparent" alt="NapakalakiRb">
             </a>
         </td>
     </tr>
