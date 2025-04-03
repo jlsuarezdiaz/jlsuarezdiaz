@@ -157,6 +157,7 @@ Check out my [Google Scholar profile](https://scholar.google.com/citations?user=
 | 2021-2022 | Artificial Intelligence | Computer Science and Mathematics | University of Granada | 3 |
 | 2022-2023 | Artificial Intelligence | Computer Science | University of Granada | 3 |
 | 2022-2023 | Artificial Intelligence | Computer Science and Mathematics | University of Granada | 3 |
+| 2023-2024 | Artificial Intelligence | Computer Science and mathematics | University of Granada | 6 |
 
 
 
